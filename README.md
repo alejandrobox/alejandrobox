@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm Alejandro and I'm learning computer engineering at the University of Murcia
+
 <!--
 **alejandrobox/alejandrobox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
